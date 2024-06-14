@@ -1,6 +1,7 @@
 # Hola, soy Benjamín 👋
 
-Soy un **analista de datos/desarrollador web** apasionado por la tecnología y el aprendizaje continuo. Me encanta resolver "puzzles" y ver como poco a poco las piezas van encajando. 
+Soy un **analista de datos/desarrollador web** apasionado por la tecnología y el aprendizaje continuo. 
+Me encanta resolver "puzzles" y ver como poco a poco las piezas van encajando. 
 Bienvenido a mi perfil de GitHub.
 
 ## 🚀: Sobre mí
