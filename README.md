@@ -1,6 +1,6 @@
 # Hola, soy Benjamín 👋
 
-Soy un **analista de datos/desarrollador web** apasionado por la tecnología y el aprendizaje continuo. 
+Soy un **analista de datos/desarrollador web/biologo** apasionado por la tecnología y el aprendizaje continuo. 
 
 Me encanta resolver "puzzles" y ver como poco a poco las piezas van encajando. 
 
